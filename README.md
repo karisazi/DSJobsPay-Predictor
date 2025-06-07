@@ -2,6 +2,8 @@
 🚀 Live Demo: https://datajobspay.vercel.app
 
 **DataJobsPay** is a fast, interactive salary prediction tool for data-related roles. Built with a Ridge Regression model and a clean web UI, it helps job seekers and analysts estimate salaries based on job title, experience level, location, and more.
+<p align="center"> <img src="datapay_demo.gif" width="100%" alt="Datapay demo"> </p>
+🔗 Live Demo: https://datajobspay.vercel.app
 
 ## 🎯 Goal  
 This project aims to make salary prediction for data jobs simple and insightful. Instead of manually analyzing trends, users can input a few job-related details and instantly see estimated salary. It’s great for career planning, HR research, or understanding market demand for data roles.
